@@ -1,7 +1,2 @@
 theme: jekyll-theme-cayman
-defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      title: Everything is Possible FLL
+title: "Everything Is Possible FIRST LEGO Team"
